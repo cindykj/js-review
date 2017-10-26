@@ -9,15 +9,39 @@ Now, unleash your coding beast!
 /*1.  Variables with a String as their value.
 Declare variables named yourName, neighborName, teacherName.  Console log each variable.*/
 
+var yourName = "Cindy Jurgens";
+var neighborName = "Darrell";
+var teacherName = "Vic Lee";
+console.log(yourName);
+console.log(neighborName);
+console.log(teacherName);
+
+
 /*2. Variable with a Number as their value.
 Declare variables named numberOfFloorsBurjKhalifa, TokyoOlympicsYear. Please assign the actual data for each variable.
 Console log each variable.*/
 
-/*3. Variables with Boolean values
-Declare variables named lovesPrepClass, eatsDonuts, drinksGin.  Console log each variable.*/
+// var numberOfFloorsBurjKhalifa = 56;
+// var TokyoOlympicsYear = 78;
+// console.log(numberOfFloorsBurjKhalifa);
+// console.log(TokyoOlympicsYear);
+
+
+// 3. Variables with Boolean values
+// Declare variables named lovesPrepClass, eatsDonuts, drinksGin.  Console log each variable.
+
+// var lovesPrepClass = true;
+// var eatsDonuts = false;
+// var drinksGin = true;
+// console.log(lovesPrepClass);
+// console.log(eatsDonuts);
+// console.log(drinksGin);
+
 
 /*4. Variable with Null values
 Declare variables named completedCodingChallenge, traveledToSpace.  Console log each variable*/
+
+
 
 /*5.  Variables with Array for its value.
 Declare a variable named japanPrefectures and assign the value of any 5 prefectures in Japan.
